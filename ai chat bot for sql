@@ -1,0 +1,23 @@
+🧠 AI Chatbot for SQL Database Interaction
+This project is an AI-powered chatbot designed to interact with SQL databases using natural language. Built with Langchain, Groq API, and Streamlit, it enables users to query databases without writing a single line of SQL—just ask questions in plain English!
+
+🚀 Features
+🔍 Natural Language to SQL: Convert human questions to accurate SQL queries using LLMs.
+
+📊 Database Integration: Connects to various SQL databases (e.g., SQLite, MySQL).
+
+🖥️ Streamlit Interface: Easy-to-use web interface for chatting and viewing results.
+
+⚡ Powered by Groq API: Fast and efficient language model performance.
+
+🛠️ Tech Stack
+Python
+
+Langchain
+
+Groq API
+
+Streamlit
+
+SQLite/MySQL (any SQL database)
+
